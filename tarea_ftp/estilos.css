@@ -1,0 +1,16 @@
+.fondo{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,166,224,1) 35%, rgba(16,241,8,1) 100%);
+}
+.titulo{
+    display: inline-block;
+    border: 2px solid blueviolet;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+.cuerpo{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
